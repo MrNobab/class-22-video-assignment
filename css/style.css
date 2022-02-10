@@ -35,8 +35,9 @@ nav .logo{
 }
 .form-caption{
 }
-.slider-in{
-    padding: 15px 75px;
+.slider-in {
+    padding: 18px 76px;
+    font-size: 14px;
 }
 .slider-in:focus{
     box-shadow: 3px 3px 27px -1px #6278df;
